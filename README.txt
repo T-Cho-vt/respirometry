@@ -51,7 +51,7 @@ The DEMO codes require the following packages:
 
    (4) Codes from the SIAM Book by Johnathan M. Bardsley
       "Computational Uncertainty Quantification for Inverse Problems"
-             https://github.com/bardsleyj/SIAMBookCodes  
+        https://github.com/bardsleyj/SIAMBookCodes  
 
    (5) FISTA, a MATLAB implementation by Tiep Vu
 	https://github.com/tiepvupsu/FISTA
