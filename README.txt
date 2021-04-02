@@ -38,7 +38,7 @@
 =====================================================================
 SOFTWARE
 =====================================================================
-The DEMO codes require the following packages:
+The MainDrivers require the following packages:
 
    (1) RestoreTools by James Nagy, Katrina Palmer, and Lisa Perrone
 	http://www.mathcs.emory.edu/~nagy/RestoreTools/index.html
